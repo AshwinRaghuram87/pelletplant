@@ -1,0 +1,6 @@
+{
+  "name": "Pellet Plant Civil & Precast Works Monitor",
+  "description": "Minimalistic daily tracking, automated precast & civil work monitoring, OCR report parsing, and AI insights for pellet plants.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
